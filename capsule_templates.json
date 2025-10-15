@@ -1,0 +1,62 @@
+[
+  {
+    "scenario": "Red zone playcall",
+    "coach": "Pete Carroll",
+    "signal_trigger": "PassBiasOverride",
+    "capsule": "Carroll’s override of Lynch triggered collapse. Coaching misalignment detected. Legacy echo confirmed."
+  },
+  {
+    "scenario": "Playoff timeout usage",
+    "coach": "Mike McCarthy",
+    "signal_trigger": "ClockMismanagement",
+    "capsule": "McCarthy’s timeout logic failed under pressure. PatternRepetitionRisk activated. Collapse echo confirmed."
+  },
+  {
+    "scenario": "QB development",
+    "coach": "Andy Reid",
+    "signal_trigger": "QBAmplifier",
+    "capsule": "Reid’s system elevated Mahomes beyond projection. Amplifier signal confirmed. Scheme synergy unlocked."
+  },
+  {
+    "scenario": "Fourth down decision",
+    "coach": "Brandon Staley",
+    "signal_trigger": "AggressionSpike",
+    "capsule": "Staley’s fourth-down aggression triggered volatility. Risk-reward override detected. Outcome bias confirmed."
+  },
+  {
+    "scenario": "Divisional matchup collapse",
+    "coach": "John Harbaugh",
+    "signal_trigger": "BigBrotherCeiling",
+    "capsule": "Ravens failed to overcome divisional legacy. Harbaugh’s trench loyalty suppressed QB amplifier. Ceiling echo confirmed."
+  },
+  {
+    "scenario": "Challenge flag error",
+    "coach": "Josh McDaniels",
+    "signal_trigger": "PanicCollapse",
+    "capsule": "McDaniels’ challenge logic triggered panic collapse. Emotional override detected. Legacy burden reinforced."
+  },
+  {
+    "scenario": "Scripted drive success",
+    "coach": "Sean McVay",
+    "signal_trigger": "ConfidenceScript",
+    "capsule": "McVay’s opening script built momentum. Emotional control confirmed. Timing discipline activated."
+  },
+  {
+    "scenario": "Defensive override of QB talent",
+    "coach": "Bill Belichick",
+    "signal_trigger": "DefenseOverride",
+    "capsule": "Belichick’s gameplan erased opponent’s top weapon. EraserLogic confirmed. QB suppression risk neutralized."
+  },
+  {
+    "scenario": "Late-game collapse",
+    "coach": "Matt LaFleur",
+    "signal_trigger": "AggressionCollapse",
+    "capsule": "LaFleur’s conservative pivot triggered collapse. Red zone creativity suppressed. Legacy burden reinforced."
+  },
+  {
+    "scenario": "Coordinator mismatch",
+    "coach": "Mike Tomlin",
+    "signal_trigger": "CultureMismatch",
+    "capsule": "Tomlin’s coordinator hire clashed with team identity. Emotional control overridden. Culture echo disrupted."
+  }
+]
