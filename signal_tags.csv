@@ -1,19 +1,45 @@
 tag,description,category
-EraserLogic,Coach neutralizes opponent’s top weapon,Defensive Philosophy
-SpeedOverSize,Coach prioritizes speed over physicality,Offensive Philosophy
-AggressionCollapse,Coach fails to stay aggressive in big moments,Behavioral Trait
-QBAmplifier,Coach elevates QB performance,Synergy Trait
-CultureMismatch,Coach’s philosophy clashes with team identity,Organizational Trait
+QBAmplifier,Coach or coordinator elevates quarterback performance,Synergy Trait
+MotionMaster,Uses motion to manipulate defensive structure,Schematic Trait
+SpeedOverSize,Prioritizes speed and agility over physicality,Offensive Philosophy
+RedZoneCreativity,Innovates in red zone playcalling,Schematic Trait
+ConfidenceScript,Scripts early success to build momentum,Emotional Trait
+AggressionCollapse,Fails to stay aggressive in high-leverage moments,Behavioral Trait
+EraserLogic,Neutralizes opponent’s top weapon through gameplan,Defensive Philosophy
+TempoControl,Manipulates game tempo to suppress opponent rhythm,Strategic Trait
+DoYourJob,Enforces strict role discipline and execution,Behavioral Trait
+CultureMismatch,Coach or coordinator clashes with team identity,Organizational Trait
 LegacyBurden,Team historically collapses in playoffs,Franchise Trait
 BigBrotherCeiling,Team struggles to overcome divisional rival,Franchise Trait
-BallDestinyTrigger,Weakness exposed repeatedly in high-leverage moments,Game Flow Trait
-MotionMaster,Coach uses motion to manipulate defense,Schematic Trait
-ConfidenceScript,Coach scripts early success to build momentum,Emotional Trait
-DoYourJob,Coach enforces strict role discipline,Behavioral Trait
-PatternRepetitionRisk,Coach repeats tendencies under pressure,Behavioral Trait
-PeakCollapseRisk,Team reaches emotional ceiling and fails to evolve,Franchise Trait
-DefenseOverride,Coach prioritizes defense at expense of offensive growth,Organizational Trait
-RedZoneCreativity,Coach innovates in red zone playcalling,Schematic Trait
+BallDestinyTrigger,Recurring weakness exposed in high-leverage moments,Game Flow Trait
+PatternRepetitionRisk,Repeats tendencies under pressure,Behavioral Trait
+DefenseOverride,Prioritizes defense at expense of offensive growth,Organizational Trait
 TrustCollapse,Coach-QB relationship breaks down in critical moments,Synergy Trait
-BlinkRisk,Coach/team emotionally collapses under pressure,Emotional Trait
-TempoControl,Coach manipulates game tempo to suppress opponent,Strategic Trait
+BlinkRisk,Emotional collapse under pressure,Emotional Trait
+PeakCollapseRisk,Team reaches emotional ceiling and fails to evolve,Franchise Trait
+ShanahanTiming,Precision timing and zone layering from Shanahan tree,Schematic Trait
+SchemeOverTalent,System suppresses improvisational talent,Behavioral Trait
+QBInstability,Frequent QB changes or lack of development,Synergy Trait
+StarAmplifier,System elevates star players at expense of cohesion,Organizational Trait
+PanicCollapse,Emotional override leads to poor decision-making,Emotional Trait
+PassBiasOverride,Overrides run-first logic in critical moments,Schematic Trait
+TrenchBias,Prioritizes line play over perimeter talent,Organizational Trait
+EmotionalControl,Maintains discipline and composure under stress,Emotional Trait
+VerticalSpread,Stretches defense with vertical route concepts,Schematic Trait
+TEIntegration,Uses tight ends as primary offensive weapons,Schematic Trait
+DisguiseCoverage,Masks defensive intentions pre-snap,Defensive Philosophy
+PressureFront,Generates disruption through trench aggression,Defensive Philosophy
+ZoneBlitz,Combines zone coverage with blitz packages,Defensive Philosophy
+ManPressure,Uses man coverage with aggressive blitzing,Defensive Philosophy
+MatchZone,Adapts coverage based on route combinations,Defensive Philosophy
+OutsideZone,Runs designed to stretch and cut outside,Schematic Trait
+PlayActionBoot,Uses play-action with QB rollout,Schematic Trait
+VerticalAggression,Pushes ball downfield with confidence,Offensive Philosophy
+SituationalMultiplicity,Adapts scheme based on opponent tendencies,Strategic Trait
+CoordinatorMismatch,OC/DC philosophy clashes with head coach,Organizational Trait
+SchemeRigidity,Fails to adapt scheme to personnel,Behavioral Trait
+EmotionalFatigue,Team shows signs of burnout or legacy exhaustion,Franchise Trait
+TrenchControl,Controls line of scrimmage to dictate game flow,Strategic Trait
+QBDespair,Franchise history of failed QB development,Franchise Trait
+CultureRebuild,Team undergoing emotional and strategic transformation,Franchise Trait
+
