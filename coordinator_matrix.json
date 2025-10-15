@@ -1,30 +1,30 @@
 [
   {
     "name": "Ben Johnson",
-    "team": "Detroit Lions",
-    "role": "Offensive Coordinator",
-    "first_seat": "Boston College Graduate Assistant (2011)",
+    "team": "Chicago Bears",
+    "role": "Head Coach (former OC)",
+    "first_seat": "Boston College GA (2011)",
     "scheme": "Spread / Play-Action / Motion-Heavy",
     "signal_tags": ["QBAmplifier", "MotionMaster", "RedZoneCreativity"],
     "legacy_echo": "Johnson’s motion discipline and play-action layering amplify QB confidence and unlock vertical aggression."
   },
   {
-    "name": "Steve Spagnuolo",
-    "team": "Kansas City Chiefs",
-    "role": "Defensive Coordinator",
-    "first_seat": "UMass Assistant (1981)",
-    "scheme": "Pressure Front / Zone Blitz / Situational Multiplicity",
-    "signal_tags": ["EraserLogic", "AggressionSpike", "TempoControl"],
-    "legacy_echo": "Spags’ pressure logic and disguise packages erase top weapons and distort offensive rhythm in high-leverage moments."
+    "name": "Declan Doyle",
+    "team": "Chicago Bears",
+    "role": "Offensive Coordinator",
+    "first_seat": "Broncos TE Coach",
+    "scheme": "Vertical Spread / TE Integration",
+    "signal_tags": ["ConfidenceScript", "QBAmplifier", "AggressionCollapse"],
+    "legacy_echo": "Doyle’s TE-centric design builds early rhythm but risks collapse in red zone volatility."
   },
   {
-    "name": "Mike Macdonald",
-    "team": "Seattle Seahawks",
-    "role": "Head Coach (Former Ravens DC)",
-    "first_seat": "Georgia Graduate Assistant (2014)",
-    "scheme": "Disguise Coverage / Trench Control / Adaptive Fronts",
-    "signal_tags": ["DefenseOverride", "PatternRepetitionRisk", "CultureMismatch"],
-    "legacy_echo": "Macdonald’s schematic control thrives in structure but risks repetition under pressure. Defensive loyalty overrides offensive evolution."
+    "name": "Eric Washington",
+    "team": "Chicago Bears",
+    "role": "Defensive Coordinator",
+    "first_seat": "Panthers DL Coach",
+    "scheme": "Pressure Front / 4-3 Base",
+    "signal_tags": ["TempoControl", "BlinkRisk", "CultureMismatch"],
+    "legacy_echo": "Washington’s trench-first identity thrives in structure but risks emotional volatility under tempo stress."
   },
   {
     "name": "Kellen Moore",
@@ -36,13 +36,31 @@
     "legacy_echo": "Moore’s QB-first design amplifies talent early but risks collapse in red zone and late-game scenarios."
   },
   {
-    "name": "Lou Anarumo",
-    "team": "Cincinnati Bengals",
+    "name": "Vic Fangio",
+    "team": "Philadelphia Eagles",
     "role": "Defensive Coordinator",
-    "first_seat": "Syracuse Assistant DB Coach (1990s)",
-    "scheme": "Match Zone / Adaptive Coverage / Pressure Timing",
-    "signal_tags": ["EraserLogic", "TempoControl", "BlinkRisk"],
-    "legacy_echo": "Anarumo’s adaptive coverage erases top threats but emotional volatility spikes in playoff collapses."
+    "first_seat": "USFL / Saints LB Coach",
+    "scheme": "Match Zone / Disguise Coverage / 3-4 Base",
+    "signal_tags": ["EraserLogic", "TempoControl", "DefenseOverride"],
+    "legacy_echo": "Fangio’s disguise logic erases top threats and suppresses offensive rhythm with surgical control."
+  },
+  {
+    "name": "Kliff Kingsbury",
+    "team": "Washington Commanders",
+    "role": "Offensive Coordinator",
+    "first_seat": "Texas A&M WR Coach",
+    "scheme": "Air Raid / Spread / Tempo",
+    "signal_tags": ["SpeedOverSize", "ConfidenceScript", "CultureMismatch"],
+    "legacy_echo": "Kingsbury’s tempo-first design thrives in space but risks mismatch with trench-heavy rosters."
+  },
+  {
+    "name": "Joe Whitt Jr.",
+    "team": "Washington Commanders",
+    "role": "Defensive Coordinator",
+    "first_seat": "Packers DB Coach",
+    "scheme": "4-3 Base / Zone Pressure / DB Centric",
+    "signal_tags": ["EraserLogic", "AggressionSpike", "PatternRepetitionRisk"],
+    "legacy_echo": "Whitt’s DB-first logic erases vertical threats but risks repetition under pressure."
   },
   {
     "name": "Brian Flores",
@@ -63,12 +81,39 @@
     "legacy_echo": "Slowik’s scheme precision reflects Shanahan’s timing discipline and QB synergy layering."
   },
   {
-    "name": "Ejiro Evero",
-    "team": "Carolina Panthers",
+    "name": "Steve Spagnuolo",
+    "team": "Kansas City Chiefs",
     "role": "Defensive Coordinator",
-    "first_seat": "Buccaneers Defensive Assistant (2007)",
-    "scheme": "Match Zone / Pressure Front / Situational Adaptability",
-    "signal_tags": ["EraserLogic", "CultureMismatch", "PeakCollapseRisk"],
-    "legacy_echo": "Evero’s schematic flexibility thrives in structure but risks collapse when culture alignment fails."
+    "first_seat": "UMass Assistant (1981)",
+    "scheme": "Pressure Front / Zone Blitz / Situational Multiplicity",
+    "signal_tags": ["EraserLogic", "AggressionSpike", "TempoControl"],
+    "legacy_echo": "Spags’ pressure logic and disguise packages erase top weapons and distort offensive rhythm in high-leverage moments."
+  },
+  {
+    "name": "Lou Anarumo",
+    "team": "Cincinnati Bengals",
+    "role": "Defensive Coordinator",
+    "first_seat": "Syracuse DB Coach",
+    "scheme": "Match Zone / Adaptive Coverage / Pressure Timing",
+    "signal_tags": ["EraserLogic", "TempoControl", "BlinkRisk"],
+    "legacy_echo": "Anarumo’s adaptive coverage erases top threats but emotional volatility spikes in playoff collapses."
+  },
+  {
+    "name": "Mike Kafka",
+    "team": "New York Giants",
+    "role": "Offensive Coordinator",
+    "first_seat": "Chiefs QB Coach",
+    "scheme": "Spread / Motion / QB-Centric",
+    "signal_tags": ["MotionMaster", "QBAmplifier", "ConfidenceScript"],
+    "legacy_echo": "Kafka’s motion layering and QB synergy reflect Reid’s amplifier DNA."
+  },
+  {
+    "name": "Shane Bowen",
+    "team": "New York Giants",
+    "role": "Defensive Coordinator",
+    "first_seat": "Texans Assistant",
+    "scheme": "3-4 Base / Pressure Front / Zone Match",
+    "signal_tags": ["AggressionSpike", "PatternRepetitionRisk", "CultureMismatch"],
+    "legacy_echo": "Bowen’s pressure logic thrives early but risks collapse when disguise fails."
   }
 ]
