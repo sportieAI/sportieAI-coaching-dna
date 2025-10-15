@@ -1,1 +1,12 @@
+# Legacy Echo Library
+# Format: [Year] [Team] [Signal] → [Emotional Echo]
+
+2019 KC Mahomes Ascension → "Trust was built in the fire. Every no-look pass rewrote the playbook."
+2020 KC OL Adaptation → "Injury forced evolution. Protection became poetry."
+2021 KC Two-High Counter → "The league adjusted. Reid responded with motion, patience, and YAC symphonies."
+2022 KC Post-Tyreek Evolution → "Speed left. Structure remained. Mahomes became the system."
+
+# Echo Tags
+[EchoType: Trust, Adversity, Innovation, Legacy]
+[EchoTrigger: Coordinator Change, Scheme Shift, Player Arc]
 
