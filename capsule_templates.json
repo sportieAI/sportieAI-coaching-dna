@@ -58,5 +58,65 @@
     "coach": "Mike Tomlin",
     "signal_trigger": "CultureMismatch",
     "capsule": "Tomlin’s coordinator hire clashed with team identity. Emotional control overridden. Culture echo disrupted."
+  },
+  {
+    "scenario": "QB instability",
+    "coach": "Kyle Shanahan",
+    "signal_trigger": "QBInstability",
+    "capsule": "Shanahan’s scheme precision masked QB volatility. Timing discipline held, but improvisation risk elevated."
+  },
+  {
+    "scenario": "Motion manipulation",
+    "coach": "Mike McDaniel",
+    "signal_trigger": "MotionMaster",
+    "capsule": "McDaniel’s motion layering distorted defensive structure. QB amplifier unlocked. Tempo override confirmed."
+  },
+  {
+    "scenario": "Defensive collapse under tempo",
+    "coach": "Lou Anarumo",
+    "signal_trigger": "BlinkRisk",
+    "capsule": "Anarumo’s adaptive coverage collapsed under tempo stress. Emotional volatility confirmed. Legacy echo triggered."
+  },
+  {
+    "scenario": "Coordinator synergy",
+    "coach": "Andy Reid",
+    "signal_trigger": "StarAmplifier",
+    "capsule": "Reid’s coordinator alignment amplified star power. Scheme cohesion confirmed. Outcome bias reinforced."
+  },
+  {
+    "scenario": "Red zone failure",
+    "coach": "Kellen Moore",
+    "signal_trigger": "AggressionCollapse",
+    "capsule": "Moore’s vertical aggression stalled in red zone. Collapse risk activated. Confidence script disrupted."
+  },
+  {
+    "scenario": "Defensive disguise success",
+    "coach": "Vic Fangio",
+    "signal_trigger": "DisguiseCoverage",
+    "capsule": "Fangio’s disguise logic erased vertical threats. Tempo control confirmed. EraserLogic activated."
+  },
+  {
+    "scenario": "Coordinator misalignment",
+    "coach": "Brian Flores",
+    "signal_trigger": "CultureMismatch",
+    "capsule": "Flores’ Belichick discipline clashed with team autonomy. Culture mismatch confirmed. Emotional override triggered."
+  },
+  {
+    "scenario": "Play-action boot success",
+    "coach": "Bobby Slowik",
+    "signal_trigger": "ShanahanTiming",
+    "capsule": "Slowik’s boot layering unlocked QB rhythm. Timing discipline confirmed. Motion synergy activated."
+  },
+  {
+    "scenario": "Pressure front collapse",
+    "coach": "Anthony Weaver",
+    "signal_trigger": "BlinkRisk",
+    "capsule": "Weaver’s trench aggression collapsed under tempo stress. Emotional volatility confirmed. Culture mismatch exposed."
+  },
+  {
+    "scenario": "TE-centric drive",
+    "coach": "Declan Doyle",
+    "signal_trigger": "TEIntegration",
+    "capsule": "Doyle’s TE-first design built early rhythm. QB amplifier confirmed. Collapse risk pending."
   }
 ]
