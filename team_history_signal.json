@@ -1,52 +1,61 @@
-[
-  {
-    "team": "Baltimore Ravens",
-    "legacy_tags": ["DefenseOverride", "QBAmplifierSuppression", "PeakCollapseRisk"],
-    "culture_notes": "Defensive loyalty suppresses offensive evolution. Harbaugh’s trench-first philosophy blocks QB improvisation. Team reaches emotional ceiling in playoffs."
-  },
-  {
-    "team": "Dallas Cowboys",
-    "legacy_tags": ["StarAmplifier", "LegacyBurden", "CultureMismatch"],
-    "culture_notes": "Flash and star power override discipline. Ownership influence distorts coaching identity. Collapse risk spikes in high-visibility games."
-  },
-  {
-    "team": "Green Bay Packers",
-    "legacy_tags": ["QBAmplifier", "AggressionCollapse", "BigBrotherCeiling"],
-    "culture_notes": "QB talent elevated by scheme, but conservative pivot triggers playoff collapse. Psychological block vs divisional rivals persists."
-  },
-  {
-    "team": "New England Patriots",
-    "legacy_tags": ["EraserLogic", "DoYourJob", "LegacyFatigue"],
-    "culture_notes": "Belichick’s discipline and erasure logic defined dynasty. Post-Brady era reveals culture fatigue and schematic rigidity."
-  },
-  {
-    "team": "Detroit Lions",
-    "legacy_tags": ["LegacyBurden", "BigBrotherCeiling", "CultureRebuild"],
-    "culture_notes": "Historical collapse patterns persist. Psychological block vs Packers. Culture rebuild underway with emotional intelligence and trench identity."
-  },
-  {
-    "team": "San Francisco 49ers",
-    "legacy_tags": ["ShanahanTiming", "QBInstability", "SchemeOverTalent"],
-    "culture_notes": "Scheme precision drives success, but QB instability and talent suppression risk playoff volatility. Timing discipline remains elite."
-  },
-  {
-    "team": "New York Jets",
-    "legacy_tags": ["LegacyBurden", "QBDespair", "CultureMismatch"],
-    "culture_notes": "Franchise haunted by QB failures and coaching misalignment. Legacy burden spikes in divisional matchups. Culture remains unstable."
-  },
-  {
-    "team": "Kansas City Chiefs",
-    "legacy_tags": ["QBAmplifier", "SpeedOverSize", "ConfidenceScript"],
-    "culture_notes": "Reid’s system amplifies QB talent and builds momentum through scripted aggression. Culture aligned with offensive innovation."
-  },
-  {
-    "team": "Pittsburgh Steelers",
-    "legacy_tags": ["EmotionalControl", "TrenchBias", "CultureStability"],
-    "culture_notes": "Tomlin’s emotional discipline and trench-first identity create culture stability. Legacy echo favors resilience over volatility."
-  },
-  {
-    "team": "Buffalo Bills",
-    "legacy_tags": ["PeakCollapseRisk", "QBAmplifier", "AggressionCollapse"],
-    "culture_notes": "Allen’s talent amplified by scheme, but emotional volatility and red zone collapse persist. Legacy burden spikes in playoffs."
-  }
-]
+{
+  "team": "Kansas City Chiefs",
+  "franchise_id": "KC",
+  "history": [
+    {
+      "year": 2018,
+      "head_coach": "Andy Reid",
+      "offensive_coordinator": "Eric Bieniemy",
+      "defensive_coordinator": "Bob Sutton",
+      "signal_tags": {
+        "offense": ["West Coast Hybrid", "RPO Layer", "Mahomes Ascension"],
+        "defense": ["Soft Zone Shell", "Pressure Inconsistency"],
+        "emotional": ["Post-Alex Smith Transition", "Mahomes Trust Build"]
+      }
+    },
+    {
+      "year": 2019,
+      "head_coach": "Andy Reid",
+      "offensive_coordinator": "Eric Bieniemy",
+      "defensive_coordinator": "Steve Spagnuolo",
+      "signal_tags": {
+        "offense": ["Explosive Spread", "Motion Layering", "Red Zone Creativity"],
+        "defense": ["Aggressive Front", "Turnover Swarm", "Championship Resolve"],
+        "emotional": ["Super Bowl Run", "Legacy Shift", "Team Identity Solidified"]
+      }
+    },
+    {
+      "year": 2020,
+      "head_coach": "Andy Reid",
+      "offensive_coordinator": "Eric Bieniemy",
+      "defensive_coordinator": "Steve Spagnuolo",
+      "signal_tags": {
+        "offense": ["Tempo Control", "Deep Shot Threat", "OL Adaptation"],
+        "defense": ["Coverage Versatility", "DL Rotation", "Injury Management"],
+        "emotional": ["Post-Championship Focus", "Run It Back Energy"]
+      }
+    },
+    {
+      "year": 2021,
+      "head_coach": "Andy Reid",
+      "offensive_coordinator": "Eric Bieniemy",
+      "defensive_coordinator": "Steve Spagnuolo",
+      "signal_tags": {
+        "offense": ["Midseason Adjustment", "Two-High Counter", "YAC Emphasis"],
+        "defense": ["Scheme Flex", "Veteran Leadership", "Late Season Surge"],
+        "emotional": ["Adversity Response", "Playoff Redemption"]
+      }
+    },
+    {
+      "year": 2022,
+      "head_coach": "Andy Reid",
+      "offensive_coordinator": "Matt Nagy",
+      "defensive_coordinator": "Steve Spagnuolo",
+      "signal_tags": {
+        "offense": ["Post-Tyreek Evolution", "TE-Centric Flow", "OL Dominance"],
+        "defense": ["Youth Injection", "DL Depth", "Situational Mastery"],
+        "emotional": ["Legacy Expansion", "Mahomes Maturity", "Dynasty Talk"]
+      }
+    }
+  ]
+}
