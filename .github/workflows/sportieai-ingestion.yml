@@ -9,22 +9,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-simulation:
+  run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: 🧠 Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
           pip install matplotlib
 
-      - name: Run Signal Dashboard
+      - name: 🚀 Run SportieAI pipeline
         run: |
-          python workflow/signal_dashboard.py
+          python run_pipeline.py
