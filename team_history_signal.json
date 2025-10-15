@@ -1,0 +1,52 @@
+[
+  {
+    "team": "Baltimore Ravens",
+    "legacy_tags": ["DefenseOverride", "QBAmplifierSuppression", "PeakCollapseRisk"],
+    "culture_notes": "Defensive loyalty suppresses offensive evolution. Harbaugh’s trench-first philosophy blocks QB improvisation. Team reaches emotional ceiling in playoffs."
+  },
+  {
+    "team": "Dallas Cowboys",
+    "legacy_tags": ["StarAmplifier", "LegacyBurden", "CultureMismatch"],
+    "culture_notes": "Flash and star power override discipline. Ownership influence distorts coaching identity. Collapse risk spikes in high-visibility games."
+  },
+  {
+    "team": "Green Bay Packers",
+    "legacy_tags": ["QBAmplifier", "AggressionCollapse", "BigBrotherCeiling"],
+    "culture_notes": "QB talent elevated by scheme, but conservative pivot triggers playoff collapse. Psychological block vs divisional rivals persists."
+  },
+  {
+    "team": "New England Patriots",
+    "legacy_tags": ["EraserLogic", "DoYourJob", "LegacyFatigue"],
+    "culture_notes": "Belichick’s discipline and erasure logic defined dynasty. Post-Brady era reveals culture fatigue and schematic rigidity."
+  },
+  {
+    "team": "Detroit Lions",
+    "legacy_tags": ["LegacyBurden", "BigBrotherCeiling", "CultureRebuild"],
+    "culture_notes": "Historical collapse patterns persist. Psychological block vs Packers. Culture rebuild underway with emotional intelligence and trench identity."
+  },
+  {
+    "team": "San Francisco 49ers",
+    "legacy_tags": ["ShanahanTiming", "QBInstability", "SchemeOverTalent"],
+    "culture_notes": "Scheme precision drives success, but QB instability and talent suppression risk playoff volatility. Timing discipline remains elite."
+  },
+  {
+    "team": "New York Jets",
+    "legacy_tags": ["LegacyBurden", "QBDespair", "CultureMismatch"],
+    "culture_notes": "Franchise haunted by QB failures and coaching misalignment. Legacy burden spikes in divisional matchups. Culture remains unstable."
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "legacy_tags": ["QBAmplifier", "SpeedOverSize", "ConfidenceScript"],
+    "culture_notes": "Reid’s system amplifies QB talent and builds momentum through scripted aggression. Culture aligned with offensive innovation."
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "legacy_tags": ["EmotionalControl", "TrenchBias", "CultureStability"],
+    "culture_notes": "Tomlin’s emotional discipline and trench-first identity create culture stability. Legacy echo favors resilience over volatility."
+  },
+  {
+    "team": "Buffalo Bills",
+    "legacy_tags": ["PeakCollapseRisk", "QBAmplifier", "AggressionCollapse"],
+    "culture_notes": "Allen’s talent amplified by scheme, but emotional volatility and red zone collapse persist. Legacy burden spikes in playoffs."
+  }
+]
