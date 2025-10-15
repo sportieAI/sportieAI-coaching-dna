@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ben Johnson",
+    "team": "Detroit Lions",
+    "role": "Offensive Coordinator",
+    "first_seat": "Boston College Graduate Assistant (2011)",
+    "scheme": "Spread / Play-Action / Motion-Heavy",
+    "signal_tags": ["QBAmplifier", "MotionMaster", "RedZoneCreativity"],
+    "legacy_echo": "Johnson’s motion discipline and play-action layering amplify QB confidence and unlock vertical aggression."
+  },
+  {
+    "name": "Steve Spagnuolo",
+    "team": "Kansas City Chiefs",
+    "role": "Defensive Coordinator",
+    "first_seat": "UMass Assistant (1981)",
+    "scheme": "Pressure Front / Zone Blitz / Situational Multiplicity",
+    "signal_tags": ["EraserLogic", "AggressionSpike", "TempoControl"],
+    "legacy_echo": "Spags’ pressure logic and disguise packages erase top weapons and distort offensive rhythm in high-leverage moments."
+  },
+  {
+    "name": "Mike Macdonald",
+    "team": "Seattle Seahawks",
+    "role": "Head Coach (Former Ravens DC)",
+    "first_seat": "Georgia Graduate Assistant (2014)",
+    "scheme": "Disguise Coverage / Trench Control / Adaptive Fronts",
+    "signal_tags": ["DefenseOverride", "PatternRepetitionRisk", "CultureMismatch"],
+    "legacy_echo": "Macdonald’s schematic control thrives in structure but risks repetition under pressure. Defensive loyalty overrides offensive evolution."
+  },
+  {
+    "name": "Kellen Moore",
+    "team": "Philadelphia Eagles",
+    "role": "Offensive Coordinator",
+    "first_seat": "Cowboys QB Coach (2018)",
+    "scheme": "Vertical Spread / Tempo / QB-Centric",
+    "signal_tags": ["QBAmplifier", "AggressionCollapse", "ConfidenceScript"],
+    "legacy_echo": "Moore’s QB-first design amplifies talent early but risks collapse in red zone and late-game scenarios."
+  },
+  {
+    "name": "Lou Anarumo",
+    "team": "Cincinnati Bengals",
+    "role": "Defensive Coordinator",
+    "first_seat": "Syracuse Assistant DB Coach (1990s)",
+    "scheme": "Match Zone / Adaptive Coverage / Pressure Timing",
+    "signal_tags": ["EraserLogic", "TempoControl", "BlinkRisk"],
+    "legacy_echo": "Anarumo’s adaptive coverage erases top threats but emotional volatility spikes in playoff collapses."
+  },
+  {
+    "name": "Brian Flores",
+    "team": "Minnesota Vikings",
+    "role": "Defensive Coordinator",
+    "first_seat": "Patriots Scouting Assistant (2004)",
+    "scheme": "Man Pressure / Belichick Tree / Situational Multiplicity",
+    "signal_tags": ["DoYourJob", "AggressionSpike", "CultureMismatch"],
+    "legacy_echo": "Flores channels Belichick’s discipline but risks culture mismatch when autonomy is suppressed."
+  },
+  {
+    "name": "Bobby Slowik",
+    "team": "Houston Texans",
+    "role": "Offensive Coordinator",
+    "first_seat": "PFF Analyst → 49ers Assistant (2017)",
+    "scheme": "Shanahan Tree / Outside Zone / Play-Action Boot",
+    "signal_tags": ["ShanahanTiming", "QBAmplifier", "MotionMaster"],
+    "legacy_echo": "Slowik’s scheme precision reflects Shanahan’s timing discipline and QB synergy layering."
+  },
+  {
+    "name": "Ejiro Evero",
+    "team": "Carolina Panthers",
+    "role": "Defensive Coordinator",
+    "first_seat": "Buccaneers Defensive Assistant (2007)",
+    "scheme": "Match Zone / Pressure Front / Situational Adaptability",
+    "signal_tags": ["EraserLogic", "CultureMismatch", "PeakCollapseRisk"],
+    "legacy_echo": "Evero’s schematic flexibility thrives in structure but risks collapse when culture alignment fails."
+  }
+]
