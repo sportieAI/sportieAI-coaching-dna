@@ -1,0 +1,30 @@
+name: SportieAI Ingestion & Visualization
+
+on:
+  push:
+    paths:
+      - '**.py'
+      - '**.json'
+      - '**.csv'
+  workflow_dispatch:
+
+jobs:
+  run-simulation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install matplotlib
+
+      - name: Run Signal Dashboard
+        run: |
+          python workflow/signal_dashboard.py
